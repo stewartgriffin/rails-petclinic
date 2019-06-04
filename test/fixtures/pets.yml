@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyText
+  birthday: 2019-06-04
+  owner_id: 1
+
+two:
+  name: MyText
+  birthday: 2019-06-04
+  owner_id: 1
